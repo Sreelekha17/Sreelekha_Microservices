@@ -1,0 +1,7 @@
+organization=fis-global-casestudies
+projectKey=fis-global-casestudies_sreelekha
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.40347
+dashboardUrl=https://sonarcloud.io/dashboard?id=fis-global-casestudies_sreelekha
+ceTaskId=AYe79wxrg5m7wwSiyTok
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYe79wxrg5m7wwSiyTok

@@ -1,0 +1,71 @@
+
+Icom.example.adminservice.models.Loan_details#toString()Ljava/lang/String;‹
+€C:/Users/Administrator/eclipse-workspace/Sreelekha-Adminservices/src/main/java/com/example/adminservice/models/Loan_details.java+ +("1*
+1,	 ,()Ž
+‹
+,, ,(;
+%0java.lang.String"__id*a
+
+__unknown_file (E*C.
+,com.example.adminservice.models.Loan_details"
+customer_number…
+‚
+,	 ,(;
+%1java.lang.String"__concat*.
+,	 ,()" 
+Loan_details [customer_number=*$
+,, ,(;
+
+%0java.lang.Stringr
+p
+,	 ,(L
+%2java.lang.String"__concat*$
+,	 ,(;
+
+%1java.lang.String*
+,> ,(L
+, branch_id=ˆ
+…
+,O ,(X
+%3java.lang.String"__id*[
+
+__unknown_file (?*=.
+,com.example.adminservice.models.Loan_details"
+	branch_idz
+x
+,	 ,(X
+%4java.lang.String"__concat*$
+,	 ,(L
+
+%2java.lang.String*$
+,O ,(X
+
+%3java.lang.Stringt
+r
+,	 ,(k
+%5java.lang.String"__concat*$
+,	 ,(X
+
+%4java.lang.String*
+,[ ,(k
+, loan_amount=h
+f
+,	 -(
+%6java.lang.String"__concat*$
+,	 ,(k
+
+%5java.lang.String*
+- -(
+""g
+e
+,	 -(
+%7java.lang.String"__concat*$
+,	 -(
+
+%6java.lang.String*
+- -(
+]"$
+, -(
+
+%7java.lang.StringB0.
+,com.example.adminservice.models.Loan_detailsH

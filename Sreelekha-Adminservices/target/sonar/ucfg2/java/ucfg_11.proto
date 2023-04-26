@@ -1,0 +1,80 @@
+
+Jcom.example.adminservice.models.Branch_master#toString()Ljava/lang/String;Œ
+C:/Users/Administrator/eclipse-workspace/Sreelekha-Adminservices/src/main/java/com/example/adminservice/models/Branch_master.java+ +("1*©	
+1,	 ,($‰
+†
+,' ,(0
+%0java.lang.String"__id*\
+
+__unknown_file (@*>/
+-com.example.adminservice.models.Branch_master"
+	branch_id
+}
+,	 ,(0
+%1java.lang.String"__concat*)
+,	 ,($
+Branch_master [branch_id=*$
+,' ,(0
+
+%0java.lang.Stringt
+r
+,	 ,(C
+%2java.lang.String"__concat*$
+,	 ,(0
+
+%1java.lang.String*
+,3 ,(C
+, branch_name=‹
+ˆ
+,F ,(Q
+%3java.lang.String"__id*^
+
+__unknown_file (B*@/
+-com.example.adminservice.models.Branch_master"
+branch_namez
+x
+,	 ,(Q
+%4java.lang.String"__concat*$
+,	 ,(C
+
+%2java.lang.String*$
+,F ,(Q
+
+%3java.lang.Stringt
+r
+,	 ,(d
+%5java.lang.String"__concat*$
+,	 ,(Q
+
+%4java.lang.String*
+,T ,(d
+, branch_city=‹
+ˆ
+,g ,(r
+%6java.lang.String"__id*^
+
+__unknown_file (B*@/
+-com.example.adminservice.models.Branch_master"
+branch_cityz
+x
+,	 ,(r
+%7java.lang.String"__concat*$
+,	 ,(d
+
+%5java.lang.String*$
+,g ,(r
+
+%6java.lang.Stringg
+e
+,	 -(	
+%8java.lang.String"__concat*$
+,	 ,(r
+
+%7java.lang.String*
+- -(	
+]"$
+, -(
+
+
+%8java.lang.StringB1/
+-com.example.adminservice.models.Branch_masterH
