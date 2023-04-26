@@ -1,0 +1,48 @@
+
+ecom.example.adminservice.service.BranchServiceImpl#deleteBranch(Ljava/lang/String;)Ljava/lang/String;ë
+ÜC:/Users/Administrator/eclipse-workspace/Sreelekha-Adminservices/src/main/java/com/example/adminservice/service/BranchServiceImpl.java ("startingBlock*é
+startingBlock (,è
+å
+ (
+
+%2"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*:
+
+__unknown_file (
+
+branchIdjava.lang.String\
+Z
+# (+
+branchIdjava.lang.String"__annotation*"
+
+__unknown_file (
+
+%2*
+1*Ï
+1 (§
+°
+ (,
+%0&com.example.adminservice.dao.BranchDao"__id*a
+
+__unknown_file (E*C4
+2com.example.adminservice.service.BranchServiceImpl"
+	branchDaoïí
+ ( 
+
+%1void"Rorg.springframework.data.repository.CrudRepository#deleteById(Ljava/lang/Object;)V*J
+
+__unknown_file (.
+,
+%0&com.example.adminservice.dao.BranchDao*:
+
+__unknown_file (
+
+branchIdjava.lang.String2deleteById(Ljava/lang/Object;)"
+ (
+Branch deleted:(
+ (+
+branchIdjava.lang.StringB64
+2com.example.adminservice.service.BranchServiceImplH

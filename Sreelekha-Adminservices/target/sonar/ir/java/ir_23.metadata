@@ -1,0 +1,1 @@
+com.example.adminservice.controller.AdminController#saveAccount(Lcom/example/adminservice/models/Account_master;)Lcom/example/adminservice/models/Account_master;

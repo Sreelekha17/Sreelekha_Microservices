@@ -1,0 +1,55 @@
+
+fcom.example.adminservice.controller.AdminController#deleteBranch(Ljava/lang/String;)Ljava/lang/String;’
+‡C:/Users/Administrator/eclipse-workspace/Sreelekha-Adminservices/src/main/java/com/example/adminservice/controller/AdminController.java; ;("startingBlock*°
+startingBlock; ;(K±
+®
+; ;(:
+%3"
+__annotate*T
+
+__unknown_file (86
+4org.springframework.web.bind.annotation.PathVariable*:
+
+__unknown_file (
+
+branchIdjava.lang.String\
+Z
+;B ;(J
+branchIdjava.lang.String"__annotation*"
+
+__unknown_file (
+
+%3*
+1*Ô
+1< <(±
+®
+< <(4
+%0.com.example.adminservice.service.BranchService"__id*f
+
+__unknown_file (J*H5
+3com.example.adminservice.controller.AdminController"
+branchServiceº·
+< <(&
+%1java.lang.String"acom.example.adminservice.service.BranchService#deleteBranch(Ljava/lang/String;)Ljava/lang/String;*R
+
+__unknown_file (6
+4
+%0.com.example.adminservice.service.BranchService*:
+
+__unknown_file (
+
+branchIdjava.lang.String2 deleteBranch(Ljava/lang/String;)²
+¯
+=	 =(
+%2"Horg.springframework.web.servlet.ModelAndView#<init>(Ljava/lang/String;)V*"
+
+__unknown_file (
+""*/
+
+__unknown_file (
+Branch deleted."
+= =(
+Branch deleted.:(
+; ;(J
+branchIdjava.lang.StringB75
+3com.example.adminservice.controller.AdminControllerH

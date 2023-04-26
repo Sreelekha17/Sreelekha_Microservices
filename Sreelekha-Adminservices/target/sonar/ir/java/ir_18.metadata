@@ -1,0 +1,1 @@
+com.example.adminservice.service.BranchServiceImpl#createBranch(Lcom/example/adminservice/models/Branch_master;)Lcom/example/adminservice/models/Branch_master;

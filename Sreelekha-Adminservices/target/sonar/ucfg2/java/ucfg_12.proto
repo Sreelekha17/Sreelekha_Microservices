@@ -1,0 +1,48 @@
+
+Ÿcom.example.adminservice.service.BranchServiceImpl#createBranch(Lcom/example/adminservice/models/Branch_master;)Lcom/example/adminservice/models/Branch_master;‘
+†C:/Users/Administrator/eclipse-workspace/Sreelekha-Adminservices/src/main/java/com/example/adminservice/service/BranchServiceImpl.java (""startingBlock*Ò
+startingBlock" (?±
+®
+ (
+
+%2"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*\
+
+__unknown_file (@
+>
+branch_Master-com.example.adminservice.models.Branch_master~
+|
+1 (>>
+branch_Master-com.example.adminservice.models.Branch_master"__annotation*"
+
+__unknown_file (
+
+%2*
+1*ß
+1	 (¤
+¡
+	 (,
+%0&com.example.adminservice.dao.BranchDao"__id*a
+
+__unknown_file (E*C4
+2com.example.adminservice.service.BranchServiceImpl"
+	branchDaoåâ
+	 (&3
+%1-com.example.adminservice.models.Branch_master"]org.springframework.data.repository.CrudRepository#save(Ljava/lang/Object;)Ljava/lang/Object;*J
+
+__unknown_file (.
+,
+%0&com.example.adminservice.dao.BranchDao*\
+
+__unknown_file (@
+>
+branch_Master-com.example.adminservice.models.Branch_master2save(Ljava/lang/Object;)"A
+ ('5
+3
+%1-com.example.adminservice.models.Branch_master:J
+# (>>
+branch_Master-com.example.adminservice.models.Branch_masterB64
+2com.example.adminservice.service.BranchServiceImplH

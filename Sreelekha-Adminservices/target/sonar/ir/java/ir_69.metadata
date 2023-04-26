@@ -1,0 +1,4 @@
+com.example.adminservice.SreelekhaAdminservicesApplication#main([Ljava/lang/String;)V
+org.springframework.boot.SpringApplication#<init>([Ljava/lang/Class;)V
+java.util.Collections#singletonMap(Ljava/lang/Object;Ljava/lang/Object;)Ljava/util/Map;
+org.springframework.boot.SpringApplication#instance-init#
